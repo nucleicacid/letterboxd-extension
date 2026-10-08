@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Letterboxd+",
+  "version": "1.0.0",
+  "description": "Letterboxd but better",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Letterboxd Plus",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "letterboxd-plus@nucleicacid.github.io",
+      "strict_min_version": "115.0"
+    }
+  }
+}
