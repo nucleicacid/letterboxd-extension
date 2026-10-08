@@ -19,6 +19,7 @@
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
+  "host_permissions": ["https://letterboxd.com/*"],
   "browser_specific_settings": {
     "gecko": {
       "id": "letterboxd-plus@nucleicacid.github.io",
